@@ -1,0 +1,6 @@
+dataset: iAF692
+
+numFeatures: 32
+hiddenGCN: 16
+
+gpu: 4

@@ -1,0 +1,5 @@
+dataset: cora
+
+hiddenGCN: 16
+
+gpu: 4

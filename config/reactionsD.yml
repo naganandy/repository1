@@ -1,0 +1,6 @@
+dataset: iAF1260b
+
+numFeatures: 32
+hiddenGCN: 32
+
+gpu: 4
